@@ -1,0 +1,1 @@
+myDirectives = angular.module('myDirectives', [])

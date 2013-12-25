@@ -1,0 +1,1 @@
+myFilters = angular.module('myFilters', [])
